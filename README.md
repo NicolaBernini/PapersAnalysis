@@ -21,6 +21,8 @@ Analysis, summaries, cheatsheets about relevant papers
 
 ### Body of Knowledge 
 
+- [Deep Learning - Body of Knowledge](https://github.com/NicolaBernini/PapersAnalysis/issues/8)
+
 - [Generative Models - Body of Knowledge](https://github.com/NicolaBernini/PapersAnalysis/issues/7)
 
 
