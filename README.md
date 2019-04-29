@@ -33,6 +33,12 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-04-29 
+
+Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/11) to add [D2 Net Summary](https://github.com/NicolaBernini/PapersAnalysis/blob/cnn_20190428_1842_1/CNN/ComputerVision/d2_net.ipynb)
+
+
+
 ## 2019-04-28 
 
 Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/10) to define the [CNN in Computer Vision - Section](https://github.com/NicolaBernini/PapersAnalysis/tree/master/CNN/ComputerVision) starting with a [Paper Summary](https://github.com/NicolaBernini/PapersAnalysis/blob/master/CNN/ComputerVision/Optimal_Approach_for_Image_Recognition_using_Deep_Convolutional_Architecture.ipynb) 
