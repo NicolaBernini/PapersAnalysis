@@ -35,7 +35,7 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 ## 2019-05-05 
 
-Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/12) about [Statistics](statistics/) and the first summary regards [Variational Bayesian Monte Carlo](statistics/vbmc_20190505_1832_1/) 
+Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/12) about [Statistics](statistics/) and the first summary regards [Variational Bayesian Monte Carlo](statistics/vbmc_20190505_1832_1/) also published as [Kaggle Kernel](https://www.kaggle.com/nicolabernini/papersummary-variational-bayes-monte-carlo)
 
 ## 2019-04-29 
 
