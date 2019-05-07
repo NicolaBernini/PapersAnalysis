@@ -33,6 +33,12 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-05-07 
+
+Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/13) about [Geometric Deep Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning) starting with [Gauge Equivariant CNN](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning/CNN/Gauge_Equivariant_Convolutional_Networks_and_the_Icosahedral_CNN) paper summary 
+
+
+
 ## 2019-05-05 
 
 Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/12) about [Statistics](statistics/) and the first summary regards [Variational Bayesian Monte Carlo](statistics/vbmc_20190505_1832_1/) also published as [Kaggle Kernel](https://www.kaggle.com/nicolabernini/papersummary-variational-bayes-monte-carlo)
