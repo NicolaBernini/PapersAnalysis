@@ -37,6 +37,8 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/13) about [Geometric Deep Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning) starting with [Gauge Equivariant CNN](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning/CNN/Gauge_Equivariant_Convolutional_Networks_and_the_Icosahedral_CNN) paper summary 
 
+Added  a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/14) about [Fake News](https://github.com/NicolaBernini/PapersAnalysis/tree/master/fake_news) starting with a [Paper Summary](https://github.com/NicolaBernini/PapersAnalysis/tree/master/fake_news/A_Topic-Agnostic_Approach%20for%20Identifying%20Fake_News_Pages_20190502)
+
 
 
 ## 2019-05-05 
