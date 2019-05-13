@@ -35,6 +35,8 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 ## 2019-05-13 
 
+Added [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/17) related to a new Paper Summary regarding CNN Debugging with Heatmaps 
+
 Added a [Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/16) related to [Quantum reservoir processing](https://www.nature.com/articles/s41534-019-0149-8?fbclid=IwAR0yVFxSMDZfOlKcRU8eALBagejVrfuJs_L4N1QfljUgzS4nV-pF84BhuUc) : very interesting Quantum Machine Learning paradigm 
 
 ## 2019-05-07 
