@@ -33,6 +33,10 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-05-13 
+
+Added a [Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/16) related to [Quantum reservoir processing](https://www.nature.com/articles/s41534-019-0149-8?fbclid=IwAR0yVFxSMDZfOlKcRU8eALBagejVrfuJs_L4N1QfljUgzS4nV-pF84BhuUc) : very interesting Quantum Machine Learning paradigm 
+
 ## 2019-05-07 
 
 Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/13) about [Geometric Deep Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning) starting with [Gauge Equivariant CNN](https://github.com/NicolaBernini/PapersAnalysis/tree/master/Geometric_Deep_Learning/CNN/Gauge_Equivariant_Convolutional_Networks_and_the_Icosahedral_CNN) paper summary 
