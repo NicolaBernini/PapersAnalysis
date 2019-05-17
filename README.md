@@ -34,8 +34,8 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 # Progress 
 
 ## 2019-05-17 
-
-Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/19) about Reservoir Computing started with some basic elements 
+basic
+Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/19) about [Reservoir Computing](reservoir_computing) started with some [Basic Elements](reservoir_computing/basic) elements 
 
 ## 2019-05-13 
 
