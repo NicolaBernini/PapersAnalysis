@@ -33,6 +33,10 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-05-17 
+
+Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/19) about Reservoir Computing started with some basic elements 
+
 ## 2019-05-13 
 
 Added [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/17) related to a new Paper Summary regarding CNN Debugging with Heatmaps 
