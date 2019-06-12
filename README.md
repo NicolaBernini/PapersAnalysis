@@ -33,15 +33,19 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-06-12 
+
+Added a [Paper Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/20) related to [Reinforcement Learning, Fast and Slow](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0) paper from [DeepMind](https://deepmind.com/) 
+
 ## 2019-05-17 
-basic
+
 Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/19) about [Reservoir Computing](reservoir_computing) started with some [Basic Elements](reservoir_computing/basic) elements 
 
 ## 2019-05-13 
 
 Added [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/17) related to a new Paper Summary regarding CNN Debugging with Heatmaps 
 
-Added a [Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/16) related to [Quantum reservoir processing](https://www.nature.com/articles/s41534-019-0149-8?fbclid=IwAR0yVFxSMDZfOlKcRU8eALBagejVrfuJs_L4N1QfljUgzS4nV-pF84BhuUc) : very interesting Quantum Machine Learning paradigm 
+Added a [Paper Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/16) related to [Quantum reservoir processing](https://www.nature.com/articles/s41534-019-0149-8?fbclid=IwAR0yVFxSMDZfOlKcRU8eALBagejVrfuJs_L4N1QfljUgzS4nV-pF84BhuUc) : very interesting Quantum Machine Learning paradigm 
 
 ## 2019-05-07 
 
