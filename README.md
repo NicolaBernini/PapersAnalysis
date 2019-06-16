@@ -27,11 +27,15 @@ As explained in [Contribute.md](contribute.md) contribution are absolutely welco
 
 - Submit PR with new summaries, implementations, ... 
 
-Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBernini) to discuss anything 
+Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBernini) to discuss anything 
 
 
 
 # Progress 
+
+## 2019-06-16 
+
+Added [Summary and Notes - Work in Progress](https://drive.google.com/open?id=1qmDmolkFJZ4FlZ1no9vMXg3mnAUln6Jwhzt-lqd08YA) about [Andrew Zisserman Talk about Self Supervised Learning - 2018](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf?fbclid=IwAR2jLq3yP60doFYQGoLalubDZcSUUW0fOnPprOrsVldjR61Aezlr5QKEkQg)
 
 ## 2019-06-15 
 
