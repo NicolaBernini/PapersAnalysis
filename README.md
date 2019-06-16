@@ -33,6 +33,10 @@ Feel free to DM me on [Twitter ar @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-06-15 
+
+Added [Summary and Notes - Work in Progress](https://drive.google.com/open?id=1_XUOF-x9jJqtCFLSrhXRYmdW_qQXnEyfOJcxfAFQl6s) about [Daniel Roy's talk at ICML 2019](https://www.facebook.com/icml.imls/videos/834773703576296/?t=916) 
+
 ## 2019-06-12 
 
 Added a [Paper Readthrough Issue](https://github.com/NicolaBernini/PapersAnalysis/issues/20) related to [Reinforcement Learning, Fast and Slow](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0) paper from [DeepMind](https://deepmind.com/) 
