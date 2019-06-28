@@ -33,6 +33,12 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-06-28 
+
+Added [Keras in depth tutorial - MNIST and CNN](https://drive.google.com/open?id=1b6bOCHB67ywbZbx-okKCbG70mcjGwdkDqw8A7yj9TDA) focused less on the how-to and more on the why and what happens under the hood 
+  - feel free to comment on the [Medium Version](https://medium.com/@nicolabernini_63880/keras-in-depth-tutorial-cnn-and-mnist-f6a556740126?source=friends_link&sk=43d98f08debe40d4c6b889bc118f23ba) 
+  
+
 ## 2019-06-16 
 
 Added [Summary and Notes - Work in Progress](https://drive.google.com/open?id=1qmDmolkFJZ4FlZ1no9vMXg3mnAUln6Jwhzt-lqd08YA) about [Andrew Zisserman Talk about Self Supervised Learning - 2018](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf?fbclid=IwAR2jLq3yP60doFYQGoLalubDZcSUUW0fOnPprOrsVldjR61Aezlr5QKEkQg)
