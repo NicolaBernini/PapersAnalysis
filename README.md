@@ -33,6 +33,10 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-10-19 
+
+Added [Reinforcement Learning, Fast and Slow](ReinforcementLearning/Shared%20-%20Reinforcement%20Learning%2C%20Fast%20and%20Slow.pdf) notes 
+
 ## 2019-06-28 
 
 Added [Keras in depth tutorial - MNIST and CNN](https://drive.google.com/open?id=1b6bOCHB67ywbZbx-okKCbG70mcjGwdkDqw8A7yj9TDA) focused less on the how-to and more on the why and what happens under the hood 
