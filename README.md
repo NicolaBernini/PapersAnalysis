@@ -33,9 +33,15 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2019-11-12 
+
+- Updates in [Reinforcement Learning](ReinforcementLearning)
+
 ## 2019-10-19 
 
-Added [Reinforcement Learning, Fast and Slow](ReinforcementLearning/Shared%20-%20Reinforcement%20Learning%2C%20Fast%20and%20Slow.pdf) notes 
+Added ~~[Reinforcement Learning, Fast and Slow](ReinforcementLearning/Shared%20-%20Reinforcement%20Learning%2C%20Fast%20and%20Slow.pdf) notes~~ 
+- Removed the PDF with a [Collaborative Analysis Doc on Reinforcement Learning, fast and slow](https://docs.google.com/document/d/18-EXd6uKowrT3wiTzR6ZUk6CbP6DRyokLYaRlXu97Q0/edit?usp=sharing) with comments open 
+
 
 ## 2019-06-28 
 
