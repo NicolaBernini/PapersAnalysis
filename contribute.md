@@ -1,6 +1,8 @@
 
 # How to CONTRIBUTE 
 
+- For the most interesting papers I create a Shared Google Doc with comments open so to be able to discuss and propose 
+
 - Open issues to 
   - **bugfix**: notify me about bugs, typos, ... 
   - **features**: suggest relevant papers, discuss content, ... 
