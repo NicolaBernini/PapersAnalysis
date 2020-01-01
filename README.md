@@ -1,6 +1,26 @@
 
 # Overview 
 
+## Index  
+
+### Reinforcement Learning 
+
+[Reinforcement Learning, Fast and Slow](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/ReinforcementLearning_Fast_and_Slow)
+
+[Q Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/Q_Learning)
+
+
+
+### News 
+
+[Yoshua Bengio - Gary Marcus - AI Debate](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ByYears/Y2019/AI_Debate)
+
+
+
+
+
+
+
 ## Why this repo 
 
 Keeping the pace of current Deep Learning Research is almost impossible and even focusing on a specific field, like Computer Vision, is extremely hard because of the new papers rate (which by the way I think it is a great thing, it makes us living in exciting times), their hard to understand content and the fact code is not so often accompanying the paper 
