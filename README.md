@@ -3,6 +3,10 @@
 
 ## Index  
 
+## Deep Learning Theory 
+
+[Deep Learning without Poor Local Minima](https://github.com/NicolaBernini/PapersAnalysis/issues/28)
+
 ### Reinforcement Learning 
 
 [Reinforcement Learning, Fast and Slow](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/ReinforcementLearning_Fast_and_Slow)
