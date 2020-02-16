@@ -3,7 +3,7 @@
 
 ## Index  
 
-## Deep Learning Theory 
+### Deep Learning Theory 
 
 [Deep Learning without Poor Local Minima](https://github.com/NicolaBernini/PapersAnalysis/issues/28)
 
