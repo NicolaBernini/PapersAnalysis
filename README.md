@@ -57,6 +57,10 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## 2020-06-21 
+
+Commented [Disentangling by Factorising](https://scirate.com/arxiv/1802.05983#1483) on Scirate 
+
 ## 2019-11-12 
 
 - Updates in [Reinforcement Learning](ReinforcementLearning)
