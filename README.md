@@ -1,29 +1,7 @@
 
 # Overview 
 
-## Index  
-
-### Deep Learning Theory 
-
-[Deep Learning without Poor Local Minima](https://github.com/NicolaBernini/PapersAnalysis/issues/28)
-
-### Reinforcement Learning 
-
-[Reinforcement Learning, Fast and Slow](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/ReinforcementLearning_Fast_and_Slow)
-
-[Q Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/Q_Learning)
-
-
-
-### News 
-
-[Yoshua Bengio - Gary Marcus - AI Debate](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ByYears/Y2019/AI_Debate)
-
-
-
-
-
-
+You can see this repo as a consolidation of reading groups which I do between me and myself :) 
 
 ## Why this repo 
 
@@ -36,8 +14,6 @@ The goal of this repo is to try helping students to make the *quantum leap* to g
 - Providing papers summaries 
 - Adding code snippets implementing specific parts 
 - Diving a bit more into theory and math when necessary (research papers tend to be vague on this kind of things)
-
-
 
 
 
@@ -56,6 +32,16 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 
 # Progress 
+
+| Date | Topic | Content | 
+| --- | --- | --- | 
+| 2020-06-21  | Disentangled Representation | Commented [Disentangling by Factorising](https://scirate.com/arxiv/1802.05983#1483) on Scirate  | 
+| 2020-04-18 | Causality and Machine Learning | Added related comments here <br/>  https://github.com/NicolaBernini/PapersAnalysis/issues/33 | 
+| 2020-02-24 | Domain Adaptation | Paper Read - Universal Domain Adaptation through Self Supervision <br/> https://github.com/NicolaBernini/PapersAnalysis/issues/32 | 
+
+
+
+# To be fixed list 
 
 ## 2020-06-21 
 
@@ -127,6 +113,37 @@ Added a [PR](https://github.com/NicolaBernini/PapersAnalysis/pull/10) to define 
 ## Published on Medium 
 
 - [Paper Summary (Serial): Benchmarking Classic and Learned Navigation in Complex 3D Environments](https://medium.com/discussing-deep-learning/paper-summary-serial-benchmarking-classic-and-learned-navigation-in-complex-3d-environments-bea85bfff5b0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Sparse Topics   
+
+## Deep Learning Theory 
+
+- [Deep Learning without Poor Local Minima](https://github.com/NicolaBernini/PapersAnalysis/issues/28)
+
+## Reinforcement Learning 
+
+- [Reinforcement Learning, Fast and Slow](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/ReinforcementLearning_Fast_and_Slow)
+
+- [Q Learning](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ReinforcementLearning/Q_Learning)
+
+
+
+## News 
+
+- [Yoshua Bengio - Gary Marcus - AI Debate](https://github.com/NicolaBernini/PapersAnalysis/tree/master/ByYears/Y2019/AI_Debate)
 
 
 
