@@ -33,11 +33,49 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
+## Full List 
+
+https://github.com/NicolaBernini/PapersAnalysis/issues
+
+-----
+
+## Recent 
+
 | Date | Topic | Content | 
 | --- | --- | --- | 
 | 2020-06-21  | Disentangled Representation | Commented [Disentangling by Factorising](https://scirate.com/arxiv/1802.05983#1483) on Scirate  | 
 | 2020-04-18 | Causality and Machine Learning | Added related comments here <br/>  https://github.com/NicolaBernini/PapersAnalysis/issues/33 | 
 | 2020-02-24 | Domain Adaptation | Paper Read - Universal Domain Adaptation through Self Supervision <br/> https://github.com/NicolaBernini/PapersAnalysis/issues/32 | 
+
+---------
+
+## By Topic 
+
+### Point Cloud Processing 
+
+| Title | Authors | Link | 
+| --- | --- | --- | 
+| Complex-YOLO Paper - Intro - Analysis | Valeo GmbH, Ilmenau University of Technology | https://github.com/NicolaBernini/PapersAnalysis/issues/1 | 
+| PointNet | Stanfaord | https://github.com/NicolaBernini/PapersAnalysis/issues/5 | 
+
+
+### Representation Learning 
+
+| Title | Authors | Link | 
+| --- | --- | --- | 
+| Representation Learning | Goodfellow, Bengio, Courville - Deep Learning Book |  https://github.com/NicolaBernini/PapersAnalysis/issues/25 | 
+
+
+
+### Reinforcement Learning 
+
+| Title | Authors |  Link | 
+| --- | --- | --- | 
+| Reinforcement Learning, Fast and Slow | DeepMind | https://github.com/NicolaBernini/PapersAnalysis/issues/20 | 
+
+
+
+------------
 
 
 
