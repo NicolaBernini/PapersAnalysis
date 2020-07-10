@@ -37,7 +37,7 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 | Date | Topic | Content | 
 | --- | --- | --- | 
-| 2020-07-10  | Added anew Section on GNN | Started the new Section with the following paper summary [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://colab.research.google.com/drive/1MTQcj8uoLaKEtO7kwZIVwGkxnZNWrhCl?usp=sharing)  | 
+| 2020-07-10  | Added anew Section on GNN | Started the [new Section about GNN](GraphNeuralNetworks/) with a paper summary [Discovering Symbolic Models from Deep Learning with Inductive Biases](GraphNeuralNetworks/readme.md#discovering-symbolic-models-from-deep-learning-with-inductive-biases) <br/> <br/> Also available on Colab as [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://colab.research.google.com/drive/1MTQcj8uoLaKEtO7kwZIVwGkxnZNWrhCl?usp=sharing) | 
 | 2020-06-21  | Disentangled Representation | Commented [Disentangling by Factorising](https://scirate.com/arxiv/1802.05983#1483) on Scirate  | 
 | 2020-04-18 | Causality and Machine Learning | Added related comments here <br/>  https://github.com/NicolaBernini/PapersAnalysis/issues/33 | 
 | 2020-02-24 | Domain Adaptation | Paper Read - Universal Domain Adaptation through Self Supervision <br/> https://github.com/NicolaBernini/PapersAnalysis/issues/32 | 
