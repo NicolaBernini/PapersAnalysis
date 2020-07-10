@@ -33,12 +33,6 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 # Progress 
 
-## Full List 
-
-https://github.com/NicolaBernini/PapersAnalysis/issues
-
------
-
 ## Recent 
 
 | Date | Topic | Content | 
@@ -49,6 +43,13 @@ https://github.com/NicolaBernini/PapersAnalysis/issues
 | 2020-02-24 | Domain Adaptation | Paper Read - Universal Domain Adaptation through Self Supervision <br/> https://github.com/NicolaBernini/PapersAnalysis/issues/32 | 
 
 ---------
+
+## Full List of Work in Progress
+
+https://github.com/NicolaBernini/PapersAnalysis/issues
+
+
+---------- 
 
 ## By Topic 
 
