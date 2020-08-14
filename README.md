@@ -37,6 +37,7 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 | Date | Topic | Content | 
 | --- | --- | --- | 
+| 2020-08-14 | Added section about Domain Adaptation with good first paper analysis | [Domain Adaptation](domain_adaptation) and [Universal Domain Adaptation through Self Supervision](domain_adaptation/universal_domain_adaptation_through_self_supervision.md) <br/> ![image](https://user-images.githubusercontent.com/6381645/85234560-68433c00-b40e-11ea-9994-ab7a1b2a28f5.png)
 | 2020-07-31 | Added Analysis of a New Paper | [Analysis of An Optimistic Perspective on Offline Reinforcement Learning - Gist](https://gist.github.com/NicolaBernini/acf536b2bab9f348191a842f5cc29c7e) |
 | 2020-07-10  | Added anew Section on GNN | Started the [new Section about GNN](GraphNeuralNetworks/) with a paper summary [Discovering Symbolic Models from Deep Learning with Inductive Biases](GraphNeuralNetworks/readme.md#discovering-symbolic-models-from-deep-learning-with-inductive-biases) <br/> <br/> Also available on Colab as [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://colab.research.google.com/drive/1MTQcj8uoLaKEtO7kwZIVwGkxnZNWrhCl?usp=sharing) | 
 | 2020-06-21  | Disentangled Representation | Commented [Disentangling by Factorising](https://scirate.com/arxiv/1802.05983#1483) on Scirate  | 
