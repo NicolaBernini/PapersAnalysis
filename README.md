@@ -35,10 +35,9 @@ Feel free to DM me on [Twitter at @NicolaBernini](https://twitter.com/NicolaBern
 
 The content is typically Markdown because it is very light but as you know GitHub does not support server side math rendering so I suggest to use some Browser Plugin like 
 
-- [![Img1](https://lh3.googleusercontent.com/OsyI62jZJo-n32WAILbZlShip_sLjUuKgdjLeMn9l-WGZT6xSc5KVd_B88FjDX_qOcfJOnct=w128-h128-e365) MathJax Plugin for GitHub](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
+- [<img src="https://lh3.googleusercontent.com/JoDVOi7QkVFNoi5YQwrqA3xnucgIRBZTG3SFhcTRpQGvyGTTkIZaWF_ilaV09wiRu97U-FmLqoM=w128-h128-e365" width="50"> Tax All The Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)
 
-- [![Img1](https://lh3.googleusercontent.com/JoDVOi7QkVFNoi5YQwrqA3xnucgIRBZTG3SFhcTRpQGvyGTTkIZaWF_ilaV09wiRu97U-FmLqoM=w128-h128-e365) Tax All The Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn)
-
+- [<img src="https://lh3.googleusercontent.com/OsyI62jZJo-n32WAILbZlShip_sLjUuKgdjLeMn9l-WGZT6xSc5KVd_B88FjDX_qOcfJOnct=w128-h128-e365" width="50"> MathJax Plugin for GitHub](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)
 
 
 # Progress 
