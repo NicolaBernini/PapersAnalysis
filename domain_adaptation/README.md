@@ -37,9 +37,9 @@ $$ f_{NN}(x; \theta) \rightarrow y $$
 
 $$d(P(D_{1}), P(D_{2})) < d_{th}$$ 
 
-with 
-- $d(\cdot, \cdot)$ some PDF similarity measure 
-- $d_{th}$ some similarity threshold 
+- with 
+  - $d(\cdot, \cdot)$ some PDF similarity measure 
+  - $d_{th}$ some similarity threshold 
 
 - In the case of domain adaptation, this assumption is does not hold anymore hence it is unreasonable to hope the $\theta_{D_{1}}$ can generalize to $D_{2}$ without some kind of "adaptation" and this is what the domain adaptation consists of 
 
