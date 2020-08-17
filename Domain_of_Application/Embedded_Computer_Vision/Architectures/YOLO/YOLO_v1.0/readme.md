@@ -29,18 +29,20 @@ Definition of components, assuming Pytorch
 
 ## Block 1 - ConvLayers 
 
+### Activations 
+
 In the ConvBlock the activations are all leaky relus, from the paper 
 
 ![Img1](YOLOv1_LeakyRELU1.png)
 
-Subblock 1 : 
+### Subblock 1 
 
 | From the Picture | Pytorch | Comment | 
 | --- | --- | --- |
 | Input 448x448x3 |  |  | 
 | > Conv. Layer, 7x7x64-s-2 | `nn.Conv2d(in_channels=3, out_channels=64, kernel_size=7, stride=2, padding=3)` | Padding=3 is needed as the MaxPool2d 2x2-s2 will make `W'=W/4` and `H'=H/4` <br/> Considering `W'=112` and `H'=112` then `W=448` and `H=448` after the Convolution hence a proper padding to preserve the input WxH is needed which is given by `P=K//2` (floor division) with `P` Padding and `K` Conv Kernel Size |
-| > LeakyRELU 0.1 | `nn.LeakyReLU(negative_slope=0.1)` |  | 
-| > Maxpool Layer 2x2-s-2 | `nn.MaxPool2d(kernel_size=2, stride=2)` | Before, what activation? | 
+| > LeakyRELU 0.1 | `nn.LeakyReLU(negative_slope=0.1)` | See above | 
+| > Maxpool Layer 2x2-s-2 | `nn.MaxPool2d(kernel_size=2, stride=2)` |  | 
 
 Work in progress 
 
