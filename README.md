@@ -46,6 +46,7 @@ The content is typically Markdown because it is very light but as you know GitHu
 
 | Date | Topic | Content | 
 | --- | --- | --- | 
+| 2020-08-17 | From Papers to Code: [implementing Yolo v1 from the paper](Domain_of_Application/Embedded_Computer_Vision/Architectures/YOLO/YOLO_v1.0) | Showing how to read a paper defining an architecture and how to implement the architecture directly in Pytorch |
 | 2020-08-16 | Added [Kanban](Kanban) Secion | In this [Kanban](Section) I am going to collect interesting bookmarks related to papers and blog posts to read |
 | 2020-08-15 | Added [WorkingOn](Kanban/WorkingOn) Section where I am happy to share papers and blog posts which I am currently reading | Started reading this interesting post from [Adam Kosiorek Blog about ML of Sets](Kanban/WorkingOn/Adam_Kosiorek_Blog/machine_learning_of_sets.md) |
 | 2020-08-14 | Added section about [Domain Adaptation](domain_adaptation) with good first paper analysis | [Universal Domain Adaptation through Self Supervision](domain_adaptation/universal_domain_adaptation_through_self_supervision.md) <br/> ![image](https://user-images.githubusercontent.com/6381645/85234560-68433c00-b40e-11ea-9994-ab7a1b2a28f5.png)
