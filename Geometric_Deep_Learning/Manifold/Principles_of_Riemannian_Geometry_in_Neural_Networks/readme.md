@@ -39,7 +39,7 @@ Solution
 
 
 
-## Problem: How to define connections between the world of NN and the work of geomtry 
+## Problem: How to define connections between the world of NN and the worls of geometry 
 
 Solution 
 
@@ -53,7 +53,7 @@ Solution
 
 - Statical Systems 
 
-- TBD 
+- TBD: Summarize the details from the paper 
 
 
 
@@ -62,6 +62,8 @@ Solution
 Solution 
 
 - Dynamical Systems, modelled with First Order Differential Equations 
+
+- TBD: Summarize details from the paper 
 
 
 
