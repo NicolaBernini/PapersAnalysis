@@ -7,63 +7,49 @@ Summary of the Paper
 
 # Summary 
 
-## Problem 
+## Problem: Why this paper 
 
-- Why this paper 
-
-## Solution 
+Solution 
 
 - Trying to develop a theory of Deep Learning in a Math Framework 
 
 
 
-## Problem 
+## Problem: How to start such a development of a theory 
 
-- How to start such a development of a theory 
-
-## Solution 
+Solution 
 
 - Start by restricting to specific cases: this paper regards Feed Forward Neural Networks 
 
 
 
-## Problem 
+## Problem: How to represent data in the framework of Geometry 
 
-- How to represent data in the framework of Geometry 
-
-## Solution 
+Solution 
 
 - Represent data as points lying on a Manifold 
 
 
 
-## Problem 
+## Problem: How to represent Neural Network in the Framework of Geometry 
 
-- How to represent Neural Network in the Framework of Geometry 
-
-
-
-## Solution 
+Solution 
 
 - Represent Neural Network as learnable functions performing coordinate system transformation on the Data Manifold 
 
 
 
-## Problem 
+## Problem: How to define connections between the world of NN and the work of geomtry 
 
-- How to define connections between the world of NN and the work of geomtry 
-
-## Solution 
+Solution 
 
 - Find analogies 
 
 
 
-## Problem 
+## Problem: Find Analogies for Ordinary NN 
 
-- Find Analogies for Ordinary NN 
-
-## Solution 
+Solution 
 
 - Statical Systems 
 
@@ -71,11 +57,9 @@ Summary of the Paper
 
 
 
-## Problem 
+## Problem: Find Analogies for Residual Networks 
 
-- Find Analogies for Residual Networks 
-
-## Solution 
+Solution 
 
 - Dynamical Systems, modelled with First Order Differential Equations 
 
