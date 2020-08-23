@@ -59,3 +59,26 @@ Summary of the Paper
 
 
 
+## Problem 
+
+- Find Analogies for Ordinary NN 
+
+## Solution 
+
+- Statical Systems 
+
+- TBD 
+
+
+
+## Problem 
+
+- Find Analogies for Residual Networks 
+
+## Solution 
+
+- Dynamical Systems, modelled with First Order Differential Equations 
+
+
+
+
