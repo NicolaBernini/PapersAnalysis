@@ -11,7 +11,7 @@ Mail Challenges in Reinforcement Learning
 
 - How to connection a set of action to a certain outcome, which is connected to a Reward 
 
-
+- Originally identified by [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky) as Temporal Credit Assignment Problem, Temporal CAP, in 1961 in the [Steps towards Artificial Intelligence](https://courses.csail.mit.edu/6.803/pdf/steps.pdf) paper 
 
 
 
