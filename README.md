@@ -42,10 +42,15 @@ The content is typically Markdown because it is very light but as you know GitHu
 
 # Progress 
 
+## What's new 
+
+![RL_in_a_nutshell](ReinforcementLearning/RL_in_a_nutshell.png)
+
 ## Recent 
 
 | Date | Topic | Content | 
 | --- | --- | --- | 
+| 2020-10-11 | RL Framework - Visual see above | Click [here](ReinforcementLearning/Reinforcement_Learning_in_a_nutshell.pdf) |
 | 2020-08-24 | Focusing on the Deep Learning Code Development Challenges | Added [Challenges in Deep Learning Code Development](Deep_Learning_Frameworks/Challenges/Testing) | 
 | 2020-08-17 | From Papers to Code: [implementing Yolo v1 from the paper](Domain_of_Application/Embedded_Computer_Vision/Architectures/YOLO/YOLO_v1.0) | Showing how to read a paper defining an architecture and how to implement the architecture directly in Pytorch |
 | 2020-08-16 | Added [Kanban](Kanban) Secion | In this [Kanban](Section) I am going to collect interesting bookmarks related to papers and blog posts to read |
