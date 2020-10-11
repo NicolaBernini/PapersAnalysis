@@ -44,7 +44,7 @@ The content is typically Markdown because it is very light but as you know GitHu
 
 ## What's new 
 
-![RL_in_a_nutshell](ReinforcementLearning/RL_in_a_nutshell.png)
+[![RL_in_a_nutshell](ReinforcementLearning/RL_in_a_nutshell.png)](ReinforcementLearning/Reinforcement_Learning_in_a_nutshell.pdf)
 
 ## Recent 
 
