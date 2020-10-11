@@ -1,7 +1,14 @@
 
 # Overview 
 
-Reinforcement Learning Papers Review 
+Reinforcement Learning Papers Review
+
+# RL in a Nutshell 
+
+![RL_in_a_nutshell.png](RL_in_a_nutshell.png)
+
+[Reinforcement_Learning_in_a_nutshell.pdf](Reinforcement_Learning_in_a_nutshell.pdf)
+- **NOTE**: Zoom on the specific regions to read them
 
 # Papers 
 
